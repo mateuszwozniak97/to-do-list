@@ -26,12 +26,14 @@ html {
     background-color: rgb(30, 163, 163);
     padding: 10px;
     color: white;
+    font-family: 'Montserrat', sans-serif;
 }
 .form__input {
     padding: 10px;
     margin: 5px;
     max-width: 550px;
     width: 100%;
+    font-family: 'Montserrat', sans-serif;
 }
 .section__header {
     border: 1px solid white;
