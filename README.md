@@ -17,7 +17,7 @@ This is a simple to-do list application built with HTML, CSS, and JavaScript. Th
 
 ## Getting started
  
-<img src="image/to-do-list_readme.png">
+<img src="image/to-do-list_readme.jpg">
 
 To get started with the application, simply click on the link. Application show in your browser window. You can then begin adding tasks to the list by typing them into the input field and pressing enter or button "Dodaj zadanie". To mark a task as complete, click on the checkbox next to the task. To remove a task from the list, click on the "red field with bin" button next to the task.
 
